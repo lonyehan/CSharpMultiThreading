@@ -1,25 +1,26 @@
-# Java Multithreading
+# C# Multithreading
 This repository contains all the codes required for the ultimate John Purcell's [Java-MultiThreading](https://caveofprogramming.teachable.com/p/java-multithreading) course. 
 
-We recommend the codes for those interested in understanding the multithreading. The code is written in Java and the topics are numbered by following the lecture content.
+We recommend the codes for those interested in understanding the multithreading. The code is written in C# and the topics are numbered by following the lecture content.
 
+I just rewrite it from Java to C# and I dont have any rights on the content. I just want to share it with you.
 
-## Java Multithreading Topics:
+## C# Multithreading Topics:
 
-- 1- Java Multithreading: Starting Threads
-- 2- Java Multithreading: Volatile – Basic Thread Communication
-- 3- Java Multithreading: Synchronized
-- 4- Java Multithreading: Lock Objects
-- 5- Java Multithreading: Thread Pools
-- 6- Java Multithreading: Countdown Latches
-- 7- Java Multithreading: Producer-Consumer
-- 8- Java Multithreading: Wait and Notify
-- 9- Java Multithreading: Low-Level Producer-Consumer
-- 10- Java Multithreading: Re-entrant Locks
-- 11- Java Multithreading: Deadlock
-- 12- Java Multithreading: Semaphores
-- 13- Java Multithreading: Callable and Future
-- 14- Java Multithreading: Interrupting Threads
+- 1- C# Multithreading: Starting Threads
+- 2- C# Multithreading: Volatile – Basic Thread Communication
+- 3- C# Multithreading: Synchronized
+- 4- C# Multithreading: Lock Objects
+- 5- C# Multithreading: Thread Pools
+- 6- C# Multithreading: Countdown Latches
+- 7- C# Multithreading: Producer-Consumer
+- 8- C# Multithreading: Wait and Notify
+- 9- C# Multithreading: Low-Level Producer-Consumer
+- 10- C# Multithreading: Re-entrant Locks
+- 11- C# Multithreading: Deadlock
+- 12- C# Multithreading: Semaphores
+- 13- C# Multithreading: Callable and Future
+- 14- C# Multithreading: Interrupting Threads
 
 
 ## Contributors
